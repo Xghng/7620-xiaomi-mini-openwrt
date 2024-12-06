@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt-phicomm_psg1218a
+name: Build OpenWrt-21.02-phicomm_psg1218a
 
 on:
   repository_dispatch:
